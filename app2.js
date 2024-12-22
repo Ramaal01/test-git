@@ -89,8 +89,8 @@ console.log("line 65");
 
 //fetch
 //fetch('https://jsonplaceholder.typicode.com/posts')
-const fetchData=async()=>{
-    const data= await fetch("https://jsonplaceholder.typicode.com/posts");
-};
-fetchData().then((data)=>console.log(data));
-console.log("hi");
+// const fetchData=async()=>{
+//     const data= await fetch("https://jsonplaceholder.typicode.com/posts");
+// };
+// fetchData().then((data)=>console.log(data));
+// console.log("hi");
